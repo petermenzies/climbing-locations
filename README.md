@@ -1,1 +1,1 @@
-# Interactive map of places I've climbed
+## Interactive map of places I've climbed
